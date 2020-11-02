@@ -2,6 +2,7 @@
 
 ## Objective
 
+
 To build an Art Gallery Management System for interactions between artists, customers, Art Enthusiasts.
 - To maintain record of Galleries, Exhibitions in respective gallery with multiple Events happening in exhibitions!
 - To maintain record of Artists, their paintings and contact details.
